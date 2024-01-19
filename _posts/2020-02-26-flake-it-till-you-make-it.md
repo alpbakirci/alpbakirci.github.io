@@ -9,7 +9,7 @@ tags: [books, test]
 author: Sharon Smith and Barry Simpson
 ---
 
-Hangi durumlarda yoldan çıkmalıyız? Başladığımız işi ne zaman bitirmemiz önemlidir? Bir torba yer fıstığı alsaydım ve alerjik reaksiyon gösterseydim, onu çöpe atarsam kimse beni suçlamazdı. Bana vuran bir kadınla ilişkimi bitirseydim kimse bağlılık sorunum olduğunu söylemezdi. Ama ruhumun başka fikirleri olduğu için görünüşte güvenli bir rotadan uzaklaşırsam, ben bir pul muyum?
+aHangi durumlarda yoldan çıkmalıyız? Başladığımız işi ne zaman bitirmemiz önemlidir? Bir torba yer fıstığı alsaydım ve alerjik reaksiyon gösterseydim, onu çöpe atarsam kimse beni suçlamazdı. Bana vuran bir kadınla ilişkimi bitirseydim kimse bağlılık sorunum olduğunu söylemezdi. Ama ruhumun başka fikirleri olduğu için görünüşte güvenli bir rotadan uzaklaşırsam, ben bir pul muyum?
 
 Gerçek şu ki, burada yürümek için bulunduğumuz yolu başka hiç kimse kesin olarak bilemez. Dinlemek cazip geliyor - çoğumuz her şeye gücü yeten diğerini özlüyoruz - ama onlar gerçek psişik sezgiseller olmadıkları sürece bilemezler. Diğerlerinin bildiği tek şey kendi gerçekleridir ve eğer onu gerçekten kazmak için çaba harcamışlarsa, başkalarınınkini gerçekten bilemeyeceklerini bilecek sağduyuya sahip olacaklardır. Burada yürünecek yolu yalnızca ruh bilir. Tapınağınızda yaşayan tek kişi olduğunuz için, onun kutsal yazılarını ve yorumlayıcı yapısını yalnızca siz bilebilirsiniz.
 
